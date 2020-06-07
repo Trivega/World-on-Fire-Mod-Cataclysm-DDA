@@ -91,7 +91,7 @@
     "durability": 10,
     "range": 8,
     "dispersion": 45,
-    "ranged_damage": [ { "damage_type": "fire", "amount": 3 }, { "damage_type": "stab", "amount": 8, "armor_multiplier": 0.8 } ]
+    "ranged_damage": [ { "damage_type": "heat", "amount": 3 }, { "damage_type": "stab", "amount": 8, "armor_multiplier": 0.8 } ]
   },
 {
     "id": "napalm_gob",
@@ -106,7 +106,7 @@
     "durability": 10,
     "range": 8,
     "dispersion": 60,
-    "ranged_damage": [ { "damage_type": "fire", "amount": 3 }, { "damage_type": "stab", "amount": 8, "armor_multiplier": 0.8 } ]
+    "ranged_damage": [ { "damage_type": "heat", "amount": 3 }, { "damage_type": "stab", "amount": 8, "armor_multiplier": 0.8 } ]
   },
 {
     "id": "napalm_bomb",
@@ -121,6 +121,6 @@
     "durability": 10,
     "range": 10,
     "dispersion": 90,
-    "ranged_damage": [ { "damage_type": "fire", "amount": 3 }, { "damage_type": "stab", "amount": 8, "armor_multiplier": 0.8 } ]
+    "ranged_damage": [ { "damage_type": "heat", "amount": 3 }, { "damage_type": "stab", "amount": 8, "armor_multiplier": 0.8 } ]
   }
 ]
